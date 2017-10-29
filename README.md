@@ -21,7 +21,16 @@
 - [ ]  микросервисы
 - [ ]  монолитные приложения
 - [ ]  jam stack
+- [ ]  https://jamstack.org/resources/
 - [ ]  SPA
 - [ ]  бэкенд для spa?
 - [ ]  базы знаний, вики
 - [ ]  api-first cms 
+- [ ]  https://www.thenewdynamic.org
+- [ ]  https://www.staticgen.com
+- [ ]  https://www.youtube.com/watch?v=uWTMEDEPw8c&t=1606s
+- [ ]  https://headlesscms.org
+- [ ]  https://speakerdeck.com/biilmann/the-jam-stack
+- [ ]  https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/
+- [ ]  https://github.com/myles/awesome-static-generators
+
